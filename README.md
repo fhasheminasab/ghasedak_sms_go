@@ -7,7 +7,7 @@ This is a simple Go client for interacting with the Ghasedak API. The client sup
 
 
 ```sh
-go get github.com/ghasedakapi/ghasedak-go
+go get github.com/fhasheminasab/ghasedak_sms_go
 ```
 
 [//]: # (## Usage)
